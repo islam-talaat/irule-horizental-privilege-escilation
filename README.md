@@ -20,7 +20,6 @@ the web application now can validate if the user is allowed to access the page o
 
 
 
-that was awesome for me and that's why I love F5 :)
 
 
 
